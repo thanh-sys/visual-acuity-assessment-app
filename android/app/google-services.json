@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515594306835",
+    "project_id": "eyecheck-c6a7e",
+    "storage_bucket": "eyecheck-c6a7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515594306835:android:e2165c829fcd0b238b86e6",
+        "android_client_info": {
+          "package_name": "com.example.eye_suggest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyohncaN119SalyRldzB9MxpPAYi6oxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
